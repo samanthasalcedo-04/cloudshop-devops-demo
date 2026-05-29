@@ -1,1 +1,1 @@
-# cloudshop-devops-demo
+#CloudShop DevOps Demo
